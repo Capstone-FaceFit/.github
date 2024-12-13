@@ -31,6 +31,9 @@ FaceFit is a mobile application designed to enhance confidence in wearing glasse
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/App_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud_Scheduler-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
 ## 🎭 The Capstone Members
